@@ -1,0 +1,10 @@
+bs4
+keras
+matplotlib
+nltk
+numpy
+pandas
+requests
+scikit-learn
+selenium
+tensorflow
